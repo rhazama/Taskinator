@@ -13,9 +13,9 @@ You can checkout the application through the following link: https://rhazama.git
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 ## Installation
+Click on the link in the description above!
 
 ## Usage
 For users looking to organize tasks.
@@ -26,8 +26,7 @@ For users looking to organize tasks.
 This application is covered by the MIT license.
 ## Contributing
 Ryan Hazama
-## Tests
-n/a
+
 ## Questions
 Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
 Send any questions you may have to: rhazama01@gmail.com<br />
