@@ -1,7 +1,33 @@
-# taskinator-rh
+<h1 align="center">Taskinator</h1>
 
-Working Link: https://rhazama.github.io/taskinator-rh/
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+## Description
+A web application that allows users to write tasks under 3 columns: "To do's", "In Progress", and "Completed". When adding tasks, you can add, edit, or delete the at anytime.
+<br />
+<br />
+You can checkout the application through the following link: https://rhazama.github.io/taskinator-rh/
 
-Website that helps the user organize their tasks through the categories of "to do", "in progress", and "completed".
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+## Installation
 
-<img width="1788" alt="taskinatorScreenshot" src="https://user-images.githubusercontent.com/88352747/145128425-c3f6d0a6-6011-4ee2-afd6-739925dcefec.png">
+## Usage
+For users looking to organize tasks.
+
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license.
+## Contributing
+Ryan Hazama
+## Tests
+n/a
+## Questions
+Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
+Send any questions you may have to: rhazama01@gmail.com<br />
