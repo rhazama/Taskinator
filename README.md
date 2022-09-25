@@ -1,4 +1,4 @@
-<h1 align="center">Taskinator</h1>
+<h1 align="center">:memo: Taskinator :memo:</h1>
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
