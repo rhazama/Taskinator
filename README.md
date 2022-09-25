@@ -8,7 +8,7 @@
 A web application that allows users to write tasks under 3 columns: "To do's", "In Progress", and "Completed". When adding tasks, you can add, edit, or delete the at anytime.
 <br />
 <br />
-You can checkout the application through the following link: https://rhazama.github.io/taskinator-rh/
+You can checkout the application through the following link: https://rhazama.github.io/Taskinator/
 
 ## Table of Contents
 - [Description](#description)
